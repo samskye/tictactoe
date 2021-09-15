@@ -1,5 +1,5 @@
-import React from "react";
-import Board from "./components/Board";
+import React from 'react';
+import Board from './components/Board';
 
 const App = () => {
   return (
@@ -9,5 +9,5 @@ const App = () => {
     </div>
   );
 };
-//a component must always return a single element
+/* a component must always return a single element */
 export default App;
